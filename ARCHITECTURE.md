@@ -1,11 +1,6 @@
 # Backend Architecture Guide
 
-This document explains what this backend does, how it is organized, and why certain design decisions were made.
-
-It is written for two audiences at the same time:
-
-- reviewers who want to understand the technical structure
-- non-technical readers who want a clear picture of how the system works
+This document explains what this backend does, how it is organized, and why certain design decisions were made
 
 ## 1. What This Project Does
 
